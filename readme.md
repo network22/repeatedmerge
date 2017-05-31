@@ -1,6 +1,6 @@
 # Repeatedmerge Tool Overview
 
-Tool allows easy merge the changes across revision tree.
+Tool allows easy merging the changes across revision tree.
 It's helpful to merge changes from trunk to release, 
 from trunk to dev branches, etc... 
 (see [Common Branching Patterns](http://svnbook.red-bean.com/en/1.7/svn.branchmerge.commonpatterns.html))

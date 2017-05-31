@@ -1,7 +1,7 @@
 <?
 /**
  * The utility to repeat merge between SVN branches during developing process.
- * 
+ * https://github.com/network22/repeatedmerge
  */
 
 // Get initial state
